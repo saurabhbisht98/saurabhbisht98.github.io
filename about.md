@@ -2,16 +2,21 @@
 layout: post
 title: About
 ---
+I'm Saurabh Bisht, a data analyst with a Bachelor's and Master's degree in Economics. I recently completed a data science course covering Excel, SQL, Power BI, Python and machine learning, and I've applied these skills in hands-on projects on retail, sales and trip data.
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+## Skills
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+- **SQL:** joins, subqueries, CTEs, window functions
+- **Excel:** dashboards, charts, slicers
+- **Power BI:** interactive dashboards
+- **Python:** EDA and machine learning
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+## Education
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+- Master's in Economics
+- Bachelor of Arts
+
+## Connect
+
+- GitHub: [saurabhbisht98](https://github.com/saurabhbisht98)
+- LinkedIn: [Saurabh Bisht](www.linkedin.com/in/saurabh-bisht-data)
