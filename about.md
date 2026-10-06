@@ -19,4 +19,4 @@ I'm Saurabh Bisht, a data analyst with a Bachelor's and Master's degree in Econo
 ## Connect
 
 - GitHub: [saurabhbisht98](https://github.com/saurabhbisht98)
-- LinkedIn: [Saurabh Bisht](www.linkedin.com/in/saurabh-bisht-data)
+- LinkedIn: [Saurabh Bisht](  url: https://www.linkedin.com/in/saurabh-bisht-data)
